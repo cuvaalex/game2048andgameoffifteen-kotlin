@@ -2,7 +2,7 @@ plugins {
     id 'org.jetbrains.kotlin.jvm' version '1.3.0'
 }
 
-group 'com.jesusgsdev'
+group 'com.finix.asia'
 version '1.0-SNAPSHOT'
 
 repositories {
